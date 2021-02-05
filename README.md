@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sean-brydon" alt="sean-brydon" /> </p>
 
-- 🔭 I’m currently working on **Discreate - Discord server manager**
+- 🔭 I’m currently working on **Somba - An all in one tool for students**
 
 - 🌱 I’m currently learning **Advanced React,SASS**
 
